@@ -1,5 +1,7 @@
-### Hi there 👋
+### Developer Inu 👋
 
+Way to Cinderace  
+어려운 길일지라도, 포기하지 않는다면 이루어지리라 믿습니다.🚴
 <!--
 **hsjkdss228/hsjkdss228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
