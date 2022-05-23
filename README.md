@@ -1,8 +1,8 @@
-### Developer Inu 👋
+### Developer Inu 🚴
 
 Way to Cinderace  
 올바른 방법으로 제대로 하는 것을 지향합니다.  
-어려운 길일지라도, 끝까지 포기하지 않는다면 이루어지리라 믿습니다.🚴
+어려운 길일지라도, 끝까지 포기하지 않는다면 이루어지리라 믿습니다.  
 <!--
 **hsjkdss228/hsjkdss228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
