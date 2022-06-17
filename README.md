@@ -1,5 +1,4 @@
-### Developer Inu
-
+# Developer Inu
 
 어려운 길일지라도, 끝까지 포기하지 않는다면 이루어지리라 믿습니다.  
 <!--
